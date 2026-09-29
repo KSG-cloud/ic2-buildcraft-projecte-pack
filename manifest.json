@@ -1,0 +1,14 @@
+{
+  "minecraft": {"version": "1.12.2", "modLoaders": [{"id": "forge-14.23.5.2864", "primary": true}]},
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "IC2 + BuildCraft + ProjectE",
+  "version": "1.0",
+  "author": "Keke",
+  "files": [
+    {"projectID": 242638, "fileID": 3838713, "required": true},
+    {"projectID": 61811, "fileID": 6376391, "required": true},
+    {"projectID": 226410, "fileID": 2702991, "required": true}
+  ],
+  "overrides": "overrides"
+}
