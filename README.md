@@ -1,6 +1,6 @@
 # IC2 + BuildCraft + ProjectE (Minecraft 1.12.2)
 
-IndustrialCraft 2 2.8.222 · BuildCraft 8.0.0 · ProjectE 1.4.1 · Forge 14.23.5.2864
+IndustrialCraft 2 2.8.222 · BuildCraft 8.0.0 · ProjectE 1.4.1 · JEI 4.16.1.1013 · Forge 14.23.5.2864
 
 ## 1. Installeer Prism Launcher
 - **Windows:** [PrismLauncher-Windows-Setup.exe](https://github.com/PrismLauncher/PrismLauncher/releases/download/11.1.1/PrismLauncher-Windows-MSVC-Setup-11.1.1.exe)
@@ -9,7 +9,7 @@ IndustrialCraft 2 2.8.222 · BuildCraft 8.0.0 · ProjectE 1.4.1 · Forge 14.23.5
 Open Prism en log in via **Accounts → Add Microsoft**.
 
 ## 2. Modpack importeren
-**[⬇ Download modpack](https://github.com/KSG-cloud/ic2-buildcraft-projecte-pack/releases/download/v1.0/IC2-BuildCraft-ProjectE-modpack.zip)**
+**[⬇ Download modpack](https://github.com/KSG-cloud/ic2-buildcraft-projecte-pack/releases/latest/download/IC2-BuildCraft-ProjectE-modpack.zip)**
 
 In Prism: **Add Instance → Import** → kies de gedownloade zip (of plak de link hierboven) → OK. Prism downloadt alle mods zelf.
 
